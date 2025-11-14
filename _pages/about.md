@@ -40,14 +40,12 @@ and my **M.S. in Electrical and Computer Engineering** from the **University of 
 
 I originally studied communication engineering as an undergraduate, where I developed a strong interest in information theory after first encountering the work of  
 <span style="color:#1f77b4; font-weight:600;">Claude Shannon</span>  
-(see a photo of his statue at the [University of Michigan](/claude-shannon/)).  
+(see a photo of his statue:  
+<a href="/assets/img/Claude_Shannon.jpg" style="color:#1f77b4; font-weight:600;">Claude Shannon Statue at Michigan</a>).  
 This motivation led me to pursue my master's degree at Michigan, where I focused on communication systems and coding theory.  
 During that period, I became increasingly fascinated by quantum error-correcting codes and quantum information, which ultimately shaped my current research direction.
 
 Outside research, I enjoy reading literature—especially works by  
-<span style="color:#555;">Albert Camus</span>,  
-<span style="color:#555;">Franz Kafka</span>,  
-<span style="color:#555;">Fyodor Dostoevsky</span>,  
-and <span style="color:#555;">Wang Xiaobo</span>.  
+<span style="color:#555;">Albert Camus, Franz Kafka, Fyodor Dostoevsky, and Wang Xiaobo</span>.  
 I am also a football enthusiast; I served as the captain of my department’s football team as an undergraduate, and my favorite team has always been the  
 <span style="color:#d4a017; font-weight:600;">Spanish national team</span>.
