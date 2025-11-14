@@ -9,9 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PhD Student, Computer Science</p>
-    <p>School of Computing and Information</p>
-    <p>University of Pittsburgh</p>
     <p>5422 Sennott Square</p>
     <p>3810 Forbes Ave</p>
     <p>Pittsburgh, PA 15213, USA</p>
