@@ -19,7 +19,9 @@ During this visit, I also had the opportunity to tour **[Algorithmiq](https://al
   <img src="/assets/img/finland_visit_1.jpg" width="75%" alt="Visit to Helsinki">
 </p>
 
-(You can replace the image filenames with your own; place them in `assets/img/` or `img/`.)
+<p align="center" style="color:#555; font-size:0.9rem;">
+  Photo taken at <strong>Kauppatori</strong>, the famous market square and harbor area in central Helsinki.
+</p>
 
 ---
 
