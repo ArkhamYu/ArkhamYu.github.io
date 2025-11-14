@@ -26,19 +26,12 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am **Yu Gan (甘宇)**, a first-year Ph.D. student in **Computer Science** at the  
-**School of Computing and Information, University of Pittsburgh**. I am fortunate to be advised by  
-[**Prof. Junyu Liu**](https://sites.google.com/view/junyuliu/main).
+I am **Yu Gan (甘宇)**, a first-year Ph.D. student in **Computer Science** at the **School of Computing and Information, University of Pittsburgh**. I am fortunate to be advised by [**Prof. Junyu Liu**](https://sites.google.com/view/junyuliu/main).
 
-My research interests lie in **quantum information science**, including  
-**quantum error correction**, **quantum communication**, and **quantum information theory**.  
-Recently, my work has focused on **distributed fault-tolerant architectures** and **quantum repeater protocols**.
+My research interests lie in **quantum information science**, including **quantum error correction**, **quantum communication**, and **quantum information theory**. Recently, my work has focused on **distributed fault-tolerant architectures** and **quantum repeater protocols**.
 
-Before coming to Pittsburgh (starting my Ph.D. in December 2024), I received my  
-**B.Eng. in Communication Engineering** from the University of Electronic Science and Technology of China (2017–2021)  
-and my **M.S. in Electrical and Computer Engineering** from the **University of Michigan** (2021–2023).
+Before coming to Pittsburgh (starting my Ph.D. in December 2024), I received my **B.Eng. in Communication Engineering** from the University of Electronic Science and Technology of China (2017–2021) and my **M.S. in Electrical and Computer Engineering** from the **University of Michigan** (2021–2023).
 
 I originally studied communication engineering as an undergraduate, where I developed a strong interest in information theory after first encountering the work of <span style="color:#1f77b4; font-weight:600;">Claude Shannon</span> (see a photo of his statue: <a href="/assets/img/Claude_Shannon.jpg" style="color:#1f77b4; font-weight:600;"> Claude Shannon Statue at Michigan</a>). This motivation led me to pursue my master's degree at Michigan, where I focused on communication systems and coding theory.  During that period, I became increasingly fascinated by quantum error-correcting codes and quantum information, which ultimately shaped my current research direction.
 
-Outside research, I enjoy reading literature—especially works by  <span style="color:#555;">Albert Camus, Franz Kafka, Fyodor Dostoevsky, and Wang Xiaobo</span>. I am also a football enthusiast; I served as the captain of my department’s football team as an undergraduate, and my favorite team has always been the  
-<span style="color:#d4a017; font-weight:600;">Spanish national team</span>.
+Outside research, I enjoy reading literature—especially works by  <span style="color:#555;">Albert Camus, Franz Kafka, Fyodor Dostoevsky,</span> and <span style="color:#555;">Wang Xiaobo</span>. I am also a football enthusiast; I served as the captain of my department’s football team as an undergraduate, and my favorite team has always been the <span style="color:#d4a017; font-weight:600;">Spanish national team</span>.
