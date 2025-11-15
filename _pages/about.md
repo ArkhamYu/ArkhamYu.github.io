@@ -30,7 +30,7 @@ I am **Yu Gan (甘宇)**, a first-year Ph.D. student in **Computer Science** at 
 
 My research interests lie in **quantum information science**, including **quantum error correction**, **quantum communication**, and **quantum information theory**. Recently, my work has focused on **distributed fault-tolerant architectures** and **quantum repeater protocols**.
 
-Before coming to Pittsburgh (starting my Ph.D. in December 2024), I received my **B.Eng. in Communication Engineering** from the University of Electronic Science and Technology of China (2017–2021) and my **M.S. in Electrical and Computer Engineering** from the **University of Michigan** (2021–2023).
+Before coming to Pittsburgh (starting my Ph.D. in December 2024), I received my **B.Eng. in Communication Engineering** from the **University of Electronic Science and Technology of China** (2017–2021) and my **M.S. in Electrical and Computer Engineering** from the **University of Michigan** (2021–2023).
 
 I originally studied communication engineering as an undergraduate, where I developed a strong interest in information theory after first encountering the work of <span style="color:#1f77b4; font-weight:600;">Claude Shannon</span>. You can see a <a href="/claude-shannon/" style="color:#1f77b4; font-weight:600;">photo</a> of his statue at the University of Michigan. This motivation led me to pursue my master's degree at Michigan, where I focused on communication systems and coding theory. During that period, I became increasingly fascinated by quantum error-correcting codes and quantum information, which ultimately shaped my current research direction.
 
