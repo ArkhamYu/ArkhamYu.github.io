@@ -440,10 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-arrived-in-pittsburgh-and-officially-started-my-ph-d-journey-at-the-university-of-pittsburgh-️-excited-for-the-years-ahead",
+            },},{id: "news-arrived-in-pittsburgh-and-officially-started-my-ph-d-journey-at-the-university-of-pittsburgh-️-excited-for-the-years-ahead",
           title: '🎉 Arrived in Pittsburgh and officially started my Ph.D. journey at the University...',
           description: "",
           section: "News",},{id: "news-visit-to-university-of-helsinki-and-algorithmiq",
@@ -451,6 +448,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-attending-ieee-qce-2025-in-albuquerque",
+          title: 'Attending IEEE QCE 2025 in Albuquerque',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
