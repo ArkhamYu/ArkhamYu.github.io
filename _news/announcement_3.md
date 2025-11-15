@@ -6,8 +6,7 @@ inline: false
 related_posts: false
 ---
 
-I attended **IEEE Quantum Week (QCE25)** in Albuquerque, New Mexico  
-(<https://qce.quantum.ieee.org/2025/>). The conference was truly inspiring — I met many researchers and engineers from both academia and industry, and had a great time discussing quantum computing, networking, and emerging industrial applications. 🎓✨
+I attended **IEEE Quantum Week (QCE25)** in Albuquerque, New Mexico (<https://qce.quantum.ieee.org/2025/>). The conference was truly inspiring — I met many researchers and engineers from both academia and industry, and had a great time discussing quantum computing, networking, and emerging industrial applications. 🎓✨
 
 Below are some photos from the trip:
 
