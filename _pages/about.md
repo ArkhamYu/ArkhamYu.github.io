@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.pitt.edu'>University of Pittsburgh</a> · PhD Student in Computer Science
 
