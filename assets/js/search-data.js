@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-bookshelf",
-          title: "bookshelf",
+  },{id: "nav-books",
+          title: "books",
           description: "",
           section: "Navigation",
           handler: () => {
