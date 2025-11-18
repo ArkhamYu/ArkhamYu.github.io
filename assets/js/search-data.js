@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-note-1-stabilizer-and-xp-formalisms",
-        
-          title: "Note 1: Stabilizer and XP Formalisms",
-        
-        description: "Worked example of a repetition-code circuit and a short introduction to the XP stabiliser formalism.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/qec-note/";
-          
-        },
-      },{id: "post-the-quantum-echoes-algorithm-breakthrough",
+        },{id: "post-the-quantum-echoes-algorithm-breakthrough",
         
           title: 'The Quantum Echoes algorithm breakthrough <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -64,6 +53,17 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/", "_blank");
+          
+        },
+      },{id: "post-note-1-stabilizer-and-xp-formalisms",
+        
+          title: "Note 1: Stabilizer and XP Formalisms",
+        
+        description: "Worked example of a repetition-code circuit and a short introduction to the XP stabiliser formalism.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/stab-xp-formalism/";
           
         },
       },{id: "books-the-godfather",
