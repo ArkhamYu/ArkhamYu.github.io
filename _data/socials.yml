@@ -2,7 +2,7 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
-academia_edu:  yug130@pitt.edu
+# academia_edu:  yug130@pitt.edu
 #  organization: princeton # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
 # acm_id: # your dl.acm.org/profile/id
@@ -10,7 +10,7 @@ academia_edu:  yug130@pitt.edu
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-# email: yug130@pitt.edu # your email address
+email: yug130@pitt.edu # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 github_username: ArkhamYu # your GitHub user name
