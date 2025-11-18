@@ -9,9 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>5422 Sennott Square</p>
-    <p>3810 Forbes Ave</p>
-    <p>Pittsburgh, PA 15213, USA</p>
+    <p style="font-size: 0.9rem; line-height: 1.4;">
+      5422 Sennott Square<br>
+      3810 Forbes Ave<br>
+      Pittsburgh, PA 15213, USA
+    </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
