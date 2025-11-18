@@ -471,11 +471,11 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-academia_edu',
-        title: 'Academia_edu',
+        id: 'social-email',
+        title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("mailto:%79%75%67%31%33%30@%70%69%74%74.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
