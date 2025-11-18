@@ -5,7 +5,6 @@ permalink: /books/
 nav: true
 ---
 
-# books
 
 ## Quantum error correction
 
