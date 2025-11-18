@@ -44,11 +44,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-note-1-quantum-error-correction-warm-up",
+        },{id: "post-note-1-stabilizer-and-xp-formalisms",
         
-          title: "Note 1: Quantum Error Correction Warm-up",
+          title: "Note 1: Stabilizer and XP Formalisms",
         
-        description: "Some first notes on stabilizer codes and syndromes.",
+        description: "Worked example of a repetition-code circuit and a short introduction to the XP stabiliser formalism.",
         section: "Posts",
         handler: () => {
           
