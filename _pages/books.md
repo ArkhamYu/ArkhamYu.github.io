@@ -1,6 +1,6 @@
 ---
 layout: page
-title: books
+title: Books
 permalink: /books/
 nav: true
 ---
