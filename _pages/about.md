@@ -34,4 +34,6 @@ Before coming to Pittsburgh (starting my Ph.D. in December 2024), I received my 
 
 I originally studied communication engineering as an undergraduate, where I developed a strong interest in information theory after first encountering the work of <span style="color:#1f77b4; font-weight:600;">Claude Shannon</span>. You can see a <a href="/claude-shannon/" style="color:#1f77b4; font-weight:600;">photo</a> of his statue at the University of Michigan. This motivation led me to pursue my master's degree at Michigan, where I focused on communication systems and coding theory. During that period, I became increasingly fascinated by quantum error-correcting codes and quantum information, which ultimately shaped my current research direction.
 
+> *“Investigating something is like sending a message in a bottle into the future.”*
+
 Outside research, I enjoy reading literature—especially works by  <span style="color:#555;">Albert Camus, Franz Kafka, Fyodor Dostoevsky,</span> and <span style="color:#555;">Wang Xiaobo</span>. I am also a football enthusiast; I served as the captain of my department’s football team as an undergraduate, and my favorite team has always been the <span style="color:#d4a017; font-weight:600;">Spanish</span> <span style="color:#e57373; font-weight:600;">national team</span>.
